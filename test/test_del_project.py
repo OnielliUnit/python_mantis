@@ -1,5 +1,5 @@
 from model.project import Project
-import uuid
+
 
 
 def test_del_project(app):
